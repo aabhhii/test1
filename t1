@@ -5,7 +5,8 @@ add(){
 int a=b=20;
 return a+b;
 }
-sub();
+sub(){
+printf("hi"):}
 mul();
 div();
 }
